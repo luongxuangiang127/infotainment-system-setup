@@ -5,7 +5,7 @@ A C++ application that simulates an infotainment configuration system for cars, 
 ## 👤 Author
 
 - **Full Name**: Luong Xuan Giang
-- **Email**: luongxuangiang127@funix.edu.vn  
+- **Email**: luongxuangiang127@gmail.com  
 - **Phone**: +84 967 439 127  
 
 ## 🧩 Introduction
