@@ -1,0 +1,5 @@
+Common: [michael brown][johndoe@example.com][16652941][34664][1500] Display: [2][3][1] Sound: [3][2][4][1] General: [(GMT+05:30) / Chennai, Kolkata, Mumbai, New Delhi][Spanish]
+Common: [luong xuan giang][lxgiang@gmail.com][45454545][23876][2000] Display: [1][4][2] Sound: [4][5][2][3] General: [(GMT+07:00) / Bangkok, Hanoi, Jakarta][Vietnamese]
+Common: [kim lee][janesmith@outlook.com][54334823][77600][2000] Display: [1][2][3] Sound: [4][1][3][2] General: [(GMT+04:00) / Abu Dhabi, Muscat][Arabic]
+Common: [michael brown][johndoe@example.com][64535372][77201][1700] Display: [3][1][4] Sound: [2][3][1][4] General: [(GMT+08:00) / Beijing, Chongqing, Hong Kong, Urumqi][French]
+Common: [jane smith][janesmith@outlook.com][77434225][97269][1200] Display: [4][2][1] Sound: [1][4][2][3] General: [(GMT+04:00) / Abu Dhabi, Muscat][English]

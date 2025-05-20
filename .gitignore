@@ -1,0 +1,16 @@
+# Ignore Visual Studio files
+.vs/
+x64/
+*.exe
+*.obj
+*.pdb
+*.ipch
+*.VC.db
+*.suo
+*.user
+*.log
+*.cache
+*.ilk
+*.ncb
+*.sdf
+*.opensdf
